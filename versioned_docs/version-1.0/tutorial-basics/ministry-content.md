@@ -1,8 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 10
 ---
 
-# Deploy your site
+# Ministry Content
 
 Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
 

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 8
 ---
 
-# Create a Document
+# Ministry Services
 
 Documents are **groups of pages** connected through:
 

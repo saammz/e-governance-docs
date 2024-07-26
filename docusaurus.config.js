@@ -79,6 +79,9 @@ const config = {
             label: 'Tutorial',
           },
           {
+            type: 'docsVersionDropdown',
+          },
+          {
             href: 'https://enugustate.gov.ng/parastatals',
             label: 'Go to Portal',
             position: 'right',
