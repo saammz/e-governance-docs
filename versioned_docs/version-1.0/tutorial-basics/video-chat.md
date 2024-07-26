@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Video Chat
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+Create meetings or join a meeting.
 
 ## Create your first Post
 

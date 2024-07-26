@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Projects
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Create new projects or review existing projects.
 
 - `src/pages/index.js` → `localhost:3000/`
 - `src/pages/foo.md` → `localhost:3000/foo`

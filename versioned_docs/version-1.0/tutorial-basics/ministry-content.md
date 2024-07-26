@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Ministry Content
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
+Manage your ministry official page.
 
 It builds your site as simple **static HTML, JavaScript and CSS files**.
 

@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # News Management
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+Manage your ministry news by creating, viewing etc.
 
 Docusaurus has **much more to offer**!
 

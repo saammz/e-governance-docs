@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Dashboard
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+An overview of your ministry performance
 
 - `src/pages/index.js` → `localhost:3000/`
 - `src/pages/foo.md` → `localhost:3000/foo`

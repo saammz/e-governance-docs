@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Assets Management
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Create, view or monitor your assets.
 
 - `src/pages/index.js` → `localhost:3000/`
 - `src/pages/foo.md` → `localhost:3000/foo`

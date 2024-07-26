@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # e-Services
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Ministry revenue service creation and monitoring.
 
 - `src/pages/index.js` → `localhost:3000/`
 - `src/pages/foo.md` → `localhost:3000/foo`

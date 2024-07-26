@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Document
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Review your documents, create documents, assign documents and a lot more.
 
 - `src/pages/index.js` → `localhost:3000/`
 - `src/pages/foo.md` → `localhost:3000/foo`

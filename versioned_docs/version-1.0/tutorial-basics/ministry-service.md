@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Ministry Services
 
-Documents are **groups of pages** connected through:
+Create and manage ministry services.
 
 - a **sidebar**
 - **previous/next navigation**
