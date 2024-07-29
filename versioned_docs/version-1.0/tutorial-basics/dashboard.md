@@ -6,38 +6,24 @@ sidebar_position: 1
 
 An overview of your ministry performance
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+- `This chart shows the Total documents that have been uploaded over a period of time`
 
-## Create your first React Page
+![url-all-documemnts logo](/img/dash-total-docs.png)
 
-Create a file at `src/pages/my-react-page.js`:
+- `This chart shows the Total documents that have been assigned to the ministry`
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+![url-all-documemnts logo](/img/dash-total-me.png)
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+- `This chart shows the Total documents that have been successfully approved`
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+![url-all-documemnts logo](/img/dash-total-approvd.png)
 
-## Create your first Markdown Page
+- `This chart shows the Total documents that have not been approved or pending approval`
 
-Create a file at `src/pages/my-markdown-page.md`:
+![url-all-documemnts logo](/img/dash-total-not-approvd.png)
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
+## Recent Projects
 
-This is a Markdown page
-```
+- `This table shows your recent top 5 ministry projects displaying the title, name and status`
 
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+![url-all-projects logo](/img/dash-projects.png)
